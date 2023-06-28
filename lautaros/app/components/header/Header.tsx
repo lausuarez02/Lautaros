@@ -3,7 +3,7 @@
 import './Header.css'
 //components
 import ImageProfile from '../imageProfile/ImageProfile';
-import SwitchOnOff from '../SwitchOnOff/SwitchOnOff';
+import SwitchOnOff from '../switch/SwitchOnOff';
 
 const Header = () => {
   
