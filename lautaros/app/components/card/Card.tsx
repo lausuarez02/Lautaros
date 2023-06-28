@@ -17,7 +17,7 @@ const Card = () => {
               <ImageProfile size={"big"}/>
             </div>
             <div className="overflow-hidden sm:col-span-8 lg:col-span-7">
-            <h2 className="text-2xl font-bold text-gray-900 sm:pr-12">I'm Lautaro</h2>
+            <h2 className="text-2xl font-bold text-gray-900 sm:pr-12">I am Lautaro</h2>
               <p>I am presently engaged in contributing to various open source projects, including Deno, Fresh, and others. My expertise lies in JavaScript and TypeScript development, with a primary emphasis on front-end development.</p>
             <Socials/>
             </div>
